@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+   
+}
+#apps{
+    width:100%;
+    height:800px;
+        
+}
+h1{
+    color:white;
+    font-size:40px;
+}
+
+.line{
+   background-color:white;
+    width:100px;
+    height:6px;
+    margin:8px auto;
+}
+img{
+    width:200px;
+    height:200px;
+    transition:transform 1s;
+        margin-top:50px;
+}
+img:hover{
+    transform: scale(0.8);
+}
+
+
+#chatbot{
+    width:100%;
+    height:600px;
+
+}
+.container{
+     background:linear-gradient(blue 0% ,#25ed7c 100% );
+}
+#mycarousel{
+    background-color:darkturquoise;
+    text-align:center;
+}
+.carousel-inner{
+    margin-top:20px;
+    margin-bottom:20px;
+    width:100%;
+}
+.carousel-inner p{
+    margin-top:25px;
+    font-size:22px;
+
+}
